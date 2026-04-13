@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HRida
-- 👀 I’m interested in ... X
-- 🌱 I’m currently learning ... Y
-- 💞️ I’m looking to collaborate on ... Z
+- 👀 I’m interested in Hardware and Software Development
+- 🌱 I’m currently learning Physical and Logical Chip Design
+- 💞️ I’m looking to collaborate on AI Accelerator Chip Development
 - 📫 How to reach me ... Just take a good look
 
 <!---
